@@ -23,6 +23,10 @@
     font-weight: bolder;
     text-shadow: 4px 0px 0px white;
 }
+.blackBold {
+    font-weight: bolder;
+    text-shadow: 3px 0px 0px black;
+}
 
 .delicious {
     font-weight: bolder;
@@ -42,6 +46,8 @@
     height: 180px;
     overflow: auto;
 }
+
+
 #closingNavMenuPage{
     backdrop-filter: blur(5px);
 }
