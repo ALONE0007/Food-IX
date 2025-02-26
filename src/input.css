@@ -1,0 +1,32 @@
+@font-face {
+    font-family: poppins;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/Vazir-Regular.ttf');
+}
+@font-face {
+    font-family: barlow;
+    src: url('../fonts/BarlowCondensed-Regular.ttf');
+}
+@font-face {
+    font-family: hanken;
+    src: url('../fonts/HankenGrotesk-Regular.ttf');
+}
+
+
+@import "tailwindcss";
+
+
+@theme {
+    --font-poppins: "poppins";
+    --font-hanken: "hanken";
+    --font-vazir: "vazir";
+    --font-barlow: "barlow";
+
+    --color-green:#14A83A;
+    --color-buttonColor:#BF1109;
+
+
+}

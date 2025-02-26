@@ -1,0 +1,47 @@
+.container {
+    padding: 0 5px;
+}
+
+.fa-angle-down {
+    font-weight: bolder;
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+}
+
+.text-8xl {
+    font-weight: bolder;
+    text-shadow: 4px 0px 0px white;
+}
+
+.text-5xl {
+    font-weight: bolder;
+    text-shadow: 4px 0px 0px white;
+}
+
+.text-7xl {
+    font-weight: bolder;
+    text-shadow: 4px 0px 0px white;
+}
+
+.delicious {
+    font-weight: bolder;
+    text-shadow: 4px 0px 0px #BF1109;
+    height: fit-content;
+}
+
+.custom-group:hover .test {
+    width: 12px;
+}
+
+.custom-group:hover .res {
+    color: #BF1109;
+}
+
+.activeMenu {
+    height: 180px;
+    overflow: auto;
+}
+#closingNavMenuPage{
+    backdrop-filter: blur(5px);
+}
