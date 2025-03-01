@@ -1,6 +1,9 @@
 .container {
     padding: 0 5px;
 }
+html,body{
+    overflow-x: hidden;
+}
 
 .fa-angle-down {
     font-weight: bolder;
